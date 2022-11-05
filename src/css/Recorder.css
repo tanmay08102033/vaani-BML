@@ -1,0 +1,21 @@
+.container {
+  width: 100vw;
+  height: auto;
+}
+.startbtn, .stopbtn {
+  padding: 0.5em;
+  margin: 10px;
+  position: absolute;
+  top: 45vh;
+  left: 40vw;
+}
+audio {
+  margin: 20px;
+  margin-bottom: 10vh;
+  position: absolute;
+  top: 50vh;
+  left: 32vw;
+}
+.stopbtn{
+    margin-left: 13vw;
+}
